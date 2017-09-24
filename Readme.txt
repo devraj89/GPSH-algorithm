@@ -10,6 +10,8 @@ THERE ARE SEVERAL CHANGES AS COMPARED TO THE CVPR SUBMISSION
 very fast) thus enabling us to use larger number of training data
 pairs.
 [3] ***Extra experiments for the MIRFLICKR dataset have been provided.***
+[4] ***Also provided are the results using the linear regression and
+logistic regression (with a kernel pre-processing stage)
 **************************************************************
 
 ***********************************************************
