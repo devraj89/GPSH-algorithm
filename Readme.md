@@ -1,3 +1,9 @@
+Update
+-----------
+This has been accepted in TIP 2018 ! 
+https://ieeexplore.ieee.org/abstract/document/8425016/
+
+
 This submission is the extension of the implementation of the paper 
 "Generalized Semantic Preserving Hashing for N-Label Cross-Modal Retrieval"
 in CVPR 2017 (which has been submitted to TIP for acceptance).
